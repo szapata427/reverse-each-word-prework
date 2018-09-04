@@ -5,6 +5,5 @@ def reverse_each_word(string)
      reverse = word.reverse
     
   end
-  return reverse
   end
     
